@@ -1,0 +1,6 @@
+2020-05-24 12:35:50,328 - INFO - logger set up
+2020-05-24 12:35:53,867 - INFO - Start Prerpocessing
+2020-05-24 12:35:55,321 - INFO - Handling Missing Values
+2020-05-24 12:35:56,223 - INFO - application shape:(356255, 154)
+2020-05-24 12:35:56,223 - INFO - Save data to directory ./output
+2020-05-24 12:35:56,843 - INFO - Finish Preprocessing

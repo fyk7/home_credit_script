@@ -1,0 +1,7 @@
+2020-05-24 18:18:40,713 - INFO - logger set up
+2020-05-24 18:18:44,325 - INFO - Start Prerpocessing
+2020-05-24 18:18:45,623 - INFO - add new features NEW_CREDIT_TO_ANNUITY_RATIO, NEW_CREDIT_TO_GOODS_RATIO
+2020-05-24 18:18:46,834 - INFO - Handling Missing Values
+2020-05-24 18:18:48,015 - INFO - application shape:(356255, 264)
+2020-05-24 18:18:48,015 - INFO - Save data to directory ./output
+2020-05-24 18:18:49,446 - INFO - Finish Preprocessing

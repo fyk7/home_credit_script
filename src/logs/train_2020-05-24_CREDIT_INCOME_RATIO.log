@@ -1,0 +1,5 @@
+2020-05-24 19:49:24,948 - INFO - logger set up
+2020-05-24 19:49:25,280 - INFO - train_df shape: (307511, 263)
+2020-05-24 19:49:25,927 - INFO - Selecting model => LogisticRegression
+2020-05-24 19:52:48,639 - INFO - AUC Score: 0.7458519134673098
+2020-05-24 19:52:48,640 - INFO - Save Model to directory ./output

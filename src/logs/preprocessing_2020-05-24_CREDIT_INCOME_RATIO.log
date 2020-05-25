@@ -1,0 +1,7 @@
+2020-05-24 19:49:11,961 - INFO - logger set up
+2020-05-24 19:49:15,482 - INFO - Start Prerpocessing
+2020-05-24 19:49:16,594 - INFO - credit to income ratio
+2020-05-24 19:49:17,637 - INFO - Handling Missing Values
+2020-05-24 19:49:18,816 - INFO - application shape:(356255, 263)
+2020-05-24 19:49:18,817 - INFO - Save data to directory ./output
+2020-05-24 19:49:20,113 - INFO - Finish Preprocessing

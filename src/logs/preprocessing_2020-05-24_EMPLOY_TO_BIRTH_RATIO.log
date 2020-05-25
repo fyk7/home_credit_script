@@ -1,0 +1,7 @@
+2020-05-24 19:25:56,791 - INFO - logger set up
+2020-05-24 19:26:00,608 - INFO - Start Prerpocessing
+2020-05-24 19:26:01,849 - INFO - employ birth ratio
+2020-05-24 19:26:03,133 - INFO - Handling Missing Values
+2020-05-24 19:26:04,303 - INFO - application shape:(356255, 263)
+2020-05-24 19:26:04,303 - INFO - Save data to directory ./output
+2020-05-24 19:26:05,752 - INFO - Finish Preprocessing

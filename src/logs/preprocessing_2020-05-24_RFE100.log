@@ -1,0 +1,7 @@
+2020-05-24 13:46:21,662 - INFO - logger set up
+2020-05-24 13:46:25,244 - INFO - Start Prerpocessing
+2020-05-24 13:46:27,166 - INFO - Handling Missing Values
+2020-05-24 13:46:28,304 - INFO - Start feature selection by RFE (100 features)
+2020-05-24 13:46:51,242 - INFO - use_cols shape: 100
+2020-05-24 13:46:52,267 - INFO - train shape: (307511, 101), test shape: (48744, 100)
+2020-05-24 13:46:52,680 - INFO - Finish Preprocessing

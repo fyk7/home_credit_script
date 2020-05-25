@@ -1,0 +1,15 @@
+2020-05-24 21:48:41,494 - INFO - logger set up
+2020-05-24 21:48:41,872 - INFO - train_df shape: (307511, 268)
+2020-05-24 21:48:42,050 - INFO - Start Kfold validation
+2020-05-24 21:48:42,280 - INFO - Selecting model => LogisticRegression
+2020-05-24 21:52:15,704 - INFO - Iteration number: 0, AUC Score: 0.741197965154005
+2020-05-24 21:52:15,907 - INFO - Selecting model => LogisticRegression
+2020-05-24 21:55:54,680 - INFO - Iteration number: 1, AUC Score: 0.7521991115230245
+2020-05-24 21:55:54,858 - INFO - Selecting model => LogisticRegression
+2020-05-24 21:59:26,170 - INFO - Iteration number: 2, AUC Score: 0.7464111169184877
+2020-05-24 21:59:26,368 - INFO - Selecting model => LogisticRegression
+2020-05-24 22:03:03,621 - INFO - Iteration number: 3, AUC Score: 0.7507848321343662
+2020-05-24 22:03:03,816 - INFO - Selecting model => LogisticRegression
+2020-05-24 22:06:34,116 - INFO - Iteration number: 4, AUC Score: 0.7421166268839693
+2020-05-24 22:06:34,119 - INFO - Average AUC Score: 0.7465419305227706
+2020-05-24 22:06:34,119 - INFO - Save Model to directory ./output

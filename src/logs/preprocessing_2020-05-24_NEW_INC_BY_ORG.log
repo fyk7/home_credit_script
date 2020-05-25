@@ -1,0 +1,7 @@
+2020-05-24 18:32:48,390 - INFO - logger set up
+2020-05-24 18:32:51,945 - INFO - Start Prerpocessing
+2020-05-24 18:32:53,150 - INFO - add 1 groupby feature NEW_INC_BY_ORG
+2020-05-24 18:32:54,332 - INFO - Handling Missing Values
+2020-05-24 18:32:55,458 - INFO - application shape:(356255, 263)
+2020-05-24 18:32:55,458 - INFO - Save data to directory ./output
+2020-05-24 18:32:56,857 - INFO - Finish Preprocessing
